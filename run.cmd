@@ -1,0 +1,1 @@
+mvn package && java -jar target/kratzpad-0.0.1.jar
